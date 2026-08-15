@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-xxownx.salamkita.cfd/sitemap.xml
